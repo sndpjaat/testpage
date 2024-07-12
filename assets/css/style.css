@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url(../css/root.css);
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none !important;
+    box-sizing: border-box;
+  }
+
+
+.ff_Kaushan {
+    font-family: "Kaushan Script", cursive;
+}
+.ff_Archivo {
+    font-family: "Archivo", sans-serif;
+}
+.max-w-1440{
+    max-width: 1440px;
+}
+.bg-color{
+    background-color: #F5F8F6;
+    padding: 40px;
+}
+.green_lines{
+background: #6E9277;
+max-width: 60px;
+height: 2px;
+} 
+.max-w-314px{
+    max-width: 314px;
+} 
+.fw-400{
+    font-weight: 400px;
+}
+.fs-32{
+    font-size: 32px;
+}
+.leading-46{
+    line-height: 46.43px;
+}
+.text-color{
+color: #6E9277;
+
+}
+.max-w-799{
+    max-width: 799px;
+}
+.fw-600{
+    font-weight: 600px;
+}
+.fs-48{
+    font-weight: 48px;
+}
+.lh-62{
+    line-height: 62.4px;
+}
+.light-green{
+    color: #001008;
+}
+.card_1{
+    max-width: 510px;
+
+    height: 100%;
+    background: #FFFFFF;
+    border: 1.09px solid #0000001A;
+
+ }
+ .fs-25{
+    font-weight: 25px;
+ }
+ .lh-32{
+    line-height: 32px;
+ }
+ .max-w-499{
+    max-width: 499px;
+ }
+ .op-70{
+    opacity: 70%;
+ }
+ .pt-16{
+    padding-top: 16px;
+ }
+ .lh-24{
+    line-height: 24px;
+ }
+ .pt-30{
+    padding-top: 30px;
+ }
+ .btn_our{
+    background: #6E9277;
+    border-style: none;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 27px;
+    padding-right: 27px;
+ }
+ .mt-27{
+    margin-top: 27px;
+ }
+ .text-white{
+    color: #FFFFFF;
+ }
+ .green-lines{
+    width: 60px;
+    height: 2px;
+    background: #6E9277;
+ }
+ .lh-46{
+    line-height: 46px;
+ }
